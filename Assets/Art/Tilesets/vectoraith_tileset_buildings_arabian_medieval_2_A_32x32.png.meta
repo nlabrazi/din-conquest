@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: 97a27d18250aae246b51e5ef4fbe52ec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5911507246601227116
+    second: vectoraith_tileset_buildings_arabian_medieval_2_A_32x32_0
+  - first:
+      213: 8777553709585559697
+    second: vectoraith_tileset_buildings_arabian_medieval_2_A_32x32_1
+  - first:
+      213: 4400203841547473696
+    second: vectoraith_tileset_buildings_arabian_medieval_2_A_32x32_2
+  - first:
+      213: 8419086894809862067
+    second: vectoraith_tileset_buildings_arabian_medieval_2_A_32x32_3
+  - first:
+      213: -8054928001533567847
+    second: vectoraith_tileset_buildings_arabian_medieval_2_A_32x32_4
+  - first:
+      213: 5416040575205312065
+    second: vectoraith_tileset_buildings_arabian_medieval_2_A_32x32_5
+  - first:
+      213: 3772814194496939009
+    second: vectoraith_tileset_buildings_arabian_medieval_2_A_32x32_6
+  - first:
+      213: -7182253972337957252
+    second: vectoraith_tileset_buildings_arabian_medieval_2_A_32x32_7
+  - first:
+      213: 7400997486412577905
+    second: vectoraith_tileset_buildings_arabian_medieval_2_A_32x32_8
+  - first:
+      213: 6186336920538460462
+    second: vectoraith_tileset_buildings_arabian_medieval_2_A_32x32_9
+  - first:
+      213: 2838344562257281661
+    second: vectoraith_tileset_buildings_arabian_medieval_2_A_32x32_10
+  - first:
+      213: 4137203954643887039
+    second: vectoraith_tileset_buildings_arabian_medieval_2_A_32x32_11
+  - first:
+      213: 487337897555637238
+    second: vectoraith_tileset_buildings_arabian_medieval_2_A_32x32_12
+  - first:
+      213: -398719997349472953
+    second: vectoraith_tileset_buildings_arabian_medieval_2_A_32x32_13
+  - first:
+      213: -2864867236179990225
+    second: vectoraith_tileset_buildings_arabian_medieval_2_A_32x32_14
+  - first:
+      213: -1559967619259822282
+    second: vectoraith_tileset_buildings_arabian_medieval_2_A_32x32_15
+  - first:
+      213: 1878130269515910359
+    second: vectoraith_tileset_buildings_arabian_medieval_2_A_32x32_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vectoraith_tileset_buildings_arabian_medieval_2_A_32x32_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 255
+        width: 282
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494bf2fca7b16fda0800000000000000
+      internalID: -5911507246601227116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_buildings_arabian_medieval_2_A_32x32_1
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 479
+        width: 62
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19072c8e79220d970800000000000000
+      internalID: 8777553709585559697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_buildings_arabian_medieval_2_A_32x32_2
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 391
+        width: 161
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0231fb2a41aa01d30800000000000000
+      internalID: 4400203841547473696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_buildings_arabian_medieval_2_A_32x32_3
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 415
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bfc942bcea96d470800000000000000
+      internalID: 8419086894809862067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_buildings_arabian_medieval_2_A_32x32_4
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 263
+        width: 62
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c9e31d8a5273090800000000000000
+      internalID: -8054928001533567847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_buildings_arabian_medieval_2_A_32x32_5
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 415
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146073e2534a92b40800000000000000
+      internalID: 5416040575205312065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_buildings_arabian_medieval_2_A_32x32_6
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 387
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104aa8a458abb5430800000000000000
+      internalID: 3772814194496939009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_buildings_arabian_medieval_2_A_32x32_7
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 263
+        width: 161
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76682cb012835c90800000000000000
+      internalID: -7182253972337957252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_buildings_arabian_medieval_2_A_32x32_8
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 159
+        width: 82
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c3e217000a5b660800000000000000
+      internalID: 7400997486412577905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_buildings_arabian_medieval_2_A_32x32_9
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 159
+        width: 82
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21349117a84ad550800000000000000
+      internalID: 6186336920538460462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_buildings_arabian_medieval_2_A_32x32_10
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 31
+        width: 68
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d72c1875753d36720800000000000000
+      internalID: 2838344562257281661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_buildings_arabian_medieval_2_A_32x32_11
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 0
+        width: 161
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3e3efa31d4a6930800000000000000
+      internalID: 4137203954643887039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_buildings_arabian_medieval_2_A_32x32_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 154
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3b36d5c3f53c600800000000000000
+      internalID: 487337897555637238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_buildings_arabian_medieval_2_A_32x32_13
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 0
+        width: 98
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745d3216646777af0800000000000000
+      internalID: -398719997349472953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_buildings_arabian_medieval_2_A_32x32_14
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2926da6d62fd38d0800000000000000
+      internalID: -2864867236179990225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_buildings_arabian_medieval_2_A_32x32_15
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 3
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f08e027b1e95ae0800000000000000
+      internalID: -1559967619259822282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_buildings_arabian_medieval_2_A_32x32_16
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 5
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc87648785701a10800000000000000
+      internalID: 1878130269515910359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      vectoraith_tileset_buildings_arabian_medieval_2_A_32x32_0: -5911507246601227116
+      vectoraith_tileset_buildings_arabian_medieval_2_A_32x32_1: 8777553709585559697
+      vectoraith_tileset_buildings_arabian_medieval_2_A_32x32_10: 2838344562257281661
+      vectoraith_tileset_buildings_arabian_medieval_2_A_32x32_11: 4137203954643887039
+      vectoraith_tileset_buildings_arabian_medieval_2_A_32x32_12: 487337897555637238
+      vectoraith_tileset_buildings_arabian_medieval_2_A_32x32_13: -398719997349472953
+      vectoraith_tileset_buildings_arabian_medieval_2_A_32x32_14: -2864867236179990225
+      vectoraith_tileset_buildings_arabian_medieval_2_A_32x32_15: -1559967619259822282
+      vectoraith_tileset_buildings_arabian_medieval_2_A_32x32_16: 1878130269515910359
+      vectoraith_tileset_buildings_arabian_medieval_2_A_32x32_2: 4400203841547473696
+      vectoraith_tileset_buildings_arabian_medieval_2_A_32x32_3: 8419086894809862067
+      vectoraith_tileset_buildings_arabian_medieval_2_A_32x32_4: -8054928001533567847
+      vectoraith_tileset_buildings_arabian_medieval_2_A_32x32_5: 5416040575205312065
+      vectoraith_tileset_buildings_arabian_medieval_2_A_32x32_6: 3772814194496939009
+      vectoraith_tileset_buildings_arabian_medieval_2_A_32x32_7: -7182253972337957252
+      vectoraith_tileset_buildings_arabian_medieval_2_A_32x32_8: 7400997486412577905
+      vectoraith_tileset_buildings_arabian_medieval_2_A_32x32_9: 6186336920538460462
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
