@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 3ca555f2faa5adf40919bbba64f50045
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2447013609773580769
+    second: '!$vectoraith_sprite_fountain_5x5_arabian_medieval_32x32_0'
+  - first:
+      213: -6403257368692434626
+    second: '!$vectoraith_sprite_fountain_5x5_arabian_medieval_32x32_1'
+  - first:
+      213: 1878836577001377675
+    second: '!$vectoraith_sprite_fountain_5x5_arabian_medieval_32x32_2'
+  - first:
+      213: 7668581125849638277
+    second: '!$vectoraith_sprite_fountain_5x5_arabian_medieval_32x32_3'
+  - first:
+      213: 5045722851043877304
+    second: '!$vectoraith_sprite_fountain_5x5_arabian_medieval_32x32_4'
+  - first:
+      213: 9042785998197973289
+    second: '!$vectoraith_sprite_fountain_5x5_arabian_medieval_32x32_5'
+  - first:
+      213: -9187727639941789793
+    second: '!$vectoraith_sprite_fountain_5x5_arabian_medieval_32x32_6'
+  - first:
+      213: 6639386751230227996
+    second: '!$vectoraith_sprite_fountain_5x5_arabian_medieval_32x32_7'
+  - first:
+      213: 2112723342983371192
+    second: '!$vectoraith_sprite_fountain_5x5_arabian_medieval_32x32_8'
+  - first:
+      213: 7890022731179434621
+    second: '!$vectoraith_sprite_fountain_5x5_arabian_medieval_32x32_9'
+  - first:
+      213: -5151835279110122703
+    second: '!$vectoraith_sprite_fountain_5x5_arabian_medieval_32x32_10'
+  - first:
+      213: 4502271997064468611
+    second: '!$vectoraith_sprite_fountain_5x5_arabian_medieval_32x32_11'
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '!$vectoraith_sprite_fountain_5x5_arabian_medieval_32x32_0'
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 493
+        width: 134
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e36e436167a0ed0800000000000000
+      internalID: -2447013609773580769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$vectoraith_sprite_fountain_5x5_arabian_medieval_32x32_1'
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 493
+        width: 134
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e395fad595f0327a0800000000000000
+      internalID: -6403257368692434626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$vectoraith_sprite_fountain_5x5_arabian_medieval_32x32_2'
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 493
+        width: 134
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f8d2b89e7f21a10800000000000000
+      internalID: 1878836577001377675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$vectoraith_sprite_fountain_5x5_arabian_medieval_32x32_3'
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 333
+        width: 134
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585688177e54c6a60800000000000000
+      internalID: 7668581125849638277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$vectoraith_sprite_fountain_5x5_arabian_medieval_32x32_4'
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 333
+        width: 134
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1aa8b1332060640800000000000000
+      internalID: 5045722851043877304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$vectoraith_sprite_fountain_5x5_arabian_medieval_32x32_5'
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 333
+        width: 134
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921677264fd6e7d70800000000000000
+      internalID: 9042785998197973289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$vectoraith_sprite_fountain_5x5_arabian_medieval_32x32_6'
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 173
+        width: 134
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f974b30e362ae7080800000000000000
+      internalID: -9187727639941789793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$vectoraith_sprite_fountain_5x5_arabian_medieval_32x32_7'
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 173
+        width: 134
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c163381c217d32c50800000000000000
+      internalID: 6639386751230227996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$vectoraith_sprite_fountain_5x5_arabian_medieval_32x32_8'
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 173
+        width: 134
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9133fcfa6e15d10800000000000000
+      internalID: 2112723342983371192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$vectoraith_sprite_fountain_5x5_arabian_medieval_32x32_9'
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 13
+        width: 134
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7225b1feddfe7d60800000000000000
+      internalID: 7890022731179434621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$vectoraith_sprite_fountain_5x5_arabian_medieval_32x32_10'
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 13
+        width: 134
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133d057fb110188b0800000000000000
+      internalID: -5151835279110122703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$vectoraith_sprite_fountain_5x5_arabian_medieval_32x32_11'
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 13
+        width: 134
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388573bf6884b7e30800000000000000
+      internalID: 4502271997064468611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      '!$vectoraith_sprite_fountain_5x5_arabian_medieval_32x32_0': -2447013609773580769
+      '!$vectoraith_sprite_fountain_5x5_arabian_medieval_32x32_1': -6403257368692434626
+      '!$vectoraith_sprite_fountain_5x5_arabian_medieval_32x32_10': -5151835279110122703
+      '!$vectoraith_sprite_fountain_5x5_arabian_medieval_32x32_11': 4502271997064468611
+      '!$vectoraith_sprite_fountain_5x5_arabian_medieval_32x32_2': 1878836577001377675
+      '!$vectoraith_sprite_fountain_5x5_arabian_medieval_32x32_3': 7668581125849638277
+      '!$vectoraith_sprite_fountain_5x5_arabian_medieval_32x32_4': 5045722851043877304
+      '!$vectoraith_sprite_fountain_5x5_arabian_medieval_32x32_5': 9042785998197973289
+      '!$vectoraith_sprite_fountain_5x5_arabian_medieval_32x32_6': -9187727639941789793
+      '!$vectoraith_sprite_fountain_5x5_arabian_medieval_32x32_7': 6639386751230227996
+      '!$vectoraith_sprite_fountain_5x5_arabian_medieval_32x32_8': 2112723342983371192
+      '!$vectoraith_sprite_fountain_5x5_arabian_medieval_32x32_9': 7890022731179434621
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

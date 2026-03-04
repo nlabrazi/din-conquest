@@ -1,0 +1,4623 @@
+fileFormatVersion: 2
+guid: 7ad3c832ed73ead4aa2e1e8fdb8a41a4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3346763664985557358
+    second: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_0
+  - first:
+      213: -9028870919783072443
+    second: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_1
+  - first:
+      213: 7047526187629391687
+    second: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_2
+  - first:
+      213: 9164666348069558794
+    second: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_3
+  - first:
+      213: -6732589511096353510
+    second: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_4
+  - first:
+      213: 2471038837178189319
+    second: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_5
+  - first:
+      213: -7302142071184987554
+    second: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_6
+  - first:
+      213: 6635649494498071315
+    second: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_7
+  - first:
+      213: 9115012971686096117
+    second: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_8
+  - first:
+      213: -9114821529657492824
+    second: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_9
+  - first:
+      213: -803026014066311510
+    second: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_10
+  - first:
+      213: -8063910088825255616
+    second: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_11
+  - first:
+      213: -2127271660257026716
+    second: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_12
+  - first:
+      213: -8312906787282620972
+    second: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_13
+  - first:
+      213: 375015284897891837
+    second: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_14
+  - first:
+      213: 2534834160039517056
+    second: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_15
+  - first:
+      213: -5452142006455276015
+    second: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_16
+  - first:
+      213: -4626255667027279331
+    second: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_17
+  - first:
+      213: -3225895408367823939
+    second: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_18
+  - first:
+      213: 7811931640208759044
+    second: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_19
+  - first:
+      213: -4156879317717907189
+    second: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_20
+  - first:
+      213: 4862347705062717524
+    second: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_21
+  - first:
+      213: -1075076520547561040
+    second: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_22
+  - first:
+      213: -3639780537371344218
+    second: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_23
+  - first:
+      213: -2437123987046947556
+    second: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6906a642d7127e20800000000000000
+      internalID: 3346763664985557358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54db9774cb103b280800000000000000
+      internalID: -9028870919783072443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74fa9ee6ab7ddc160800000000000000
+      internalID: 7047526187629391687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a99a1bc7f6f2f70800000000000000
+      internalID: 9164666348069558794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1db49ca2890192a0800000000000000
+      internalID: -6732589511096353510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7064334fab4ea4220800000000000000
+      internalID: 2471038837178189319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a6593897499aa90800000000000000
+      internalID: -7302142071184987554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313de8dde00961c50800000000000000
+      internalID: 6635649494498071315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc6d6c11080f7e70800000000000000
+      internalID: 9115012971686096117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aabea57c16a18180800000000000000
+      internalID: -9114821529657492824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaefd2648141bd4f0800000000000000
+      internalID: -803026014066311510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049c1e6af7c371090800000000000000
+      internalID: -8063910088825255616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ddf9d12b96a72e0800000000000000
+      internalID: -2127271660257026716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dde515125f92ac80800000000000000
+      internalID: -8312906787282620972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df54ea92a62543500800000000000000
+      internalID: 375015284897891837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b5ea90d3a8d2320800000000000000
+      internalID: 2534834160039517056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e6f385bb91654b0800000000000000
+      internalID: -5452142006455276015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1283b65bfc3ccfb0800000000000000
+      internalID: -4626255667027279331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db31ca5b7315b33d0800000000000000
+      internalID: -3225895408367823939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4091748ff6e896c60800000000000000
+      internalID: 7811931640208759044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09814dd84ccf46c0800000000000000
+      internalID: -4156879317717907189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458f2b6d9778a7340800000000000000
+      internalID: 4862347705062717524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1566eb99f8411f0800000000000000
+      internalID: -1075076520547561040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2c999b2e6ec7dc0800000000000000
+      internalID: -3639780537371344218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15ab7e65a89d2ed0800000000000000
+      internalID: -2437123987046947556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_25
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5914a4625f0604ebf13588b2d1b97d
+      internalID: 1329057333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d108cf847b6df458b5cc17395a263b
+      internalID: -1270325249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_27
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b00d7a2e75b9f54bb4a59c232a88ba2
+      internalID: -536756145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9bb9d537d50d24880fd72e534a46df
+      internalID: -827179567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_29
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec14ccea0f31aa49ae56b017af0d721
+      internalID: -2110262018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_30
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb3f4f5e24dfb34d80df4cfec4e4642
+      internalID: -355482139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_31
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190e9e78258a36045981041a8ff581aa
+      internalID: -1084767834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92947b97a29ce04a84178e548d695c1
+      internalID: 388027096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5adcc7275ae96c499b40d50f7e6cdbc
+      internalID: -2003353333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4525f2c2689464c9caf86afc65ee89
+      internalID: 720258950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5ba1c6a957d1a4fb7b30f922cb7901
+      internalID: 1827061963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4125007213e06dd4986f99aaca081390
+      internalID: -1233978124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e139c39d4149a864aaf738d0c347b4a5
+      internalID: 470531580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517200b939bc6c34da83bc4d390403ba
+      internalID: -1672181160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f071231fd17664d9330c647ef4e19f
+      internalID: 1619849838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b570e1f3f009525419ea2c4172db066e
+      internalID: 1346131946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_41
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6edc6e5bfb6b9469f6486c6e40c160
+      internalID: -1903760853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_42
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d08babd46e22e4e9e2392ae6bdf925
+      internalID: -351077035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_43
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3904b02cadd350e4582f4ee50f876a72
+      internalID: 1663476268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_44
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c95e01bf9883f24bad55f529c25e27d
+      internalID: 755194846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_45
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c649d5967782f624ab1b200f767c1bf2
+      internalID: 2029832918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_46
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4966481e6d8e3bc4aab65753c3d6e085
+      internalID: -610960708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_47
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8291985c7f220824c9d544c558fa58ed
+      internalID: -1166197722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c065eac6eb9de45b835f2fa76db280
+      internalID: 1895693720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431e378a289939f49b421b7f21ae2fd1
+      internalID: 146981625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22d9f971ff30ed44bf9d5dd2a778a93
+      internalID: 824785886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d096233c9ea6344e95c1ad1b5820cd4
+      internalID: -755653643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc2ef041a10e494697c555909cd4bec
+      internalID: 1034311212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f670ac35e1f635e4080bf5b220bb0cb9
+      internalID: 1655013319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0f55f108ed908478fa593065fec9a5
+      internalID: -1420277339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201b3145aefec7541b5c5326b73a049c
+      internalID: -739356298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7153534f6642043b04924377ffce4e
+      internalID: 1025776967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf9ae68dd9753b46b6ef0406381cc27
+      internalID: 2133798593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918c27d16b566a04cbe0dcf4f4233fa2
+      internalID: 1493876000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6885f8aa1520e914a9d57a6154ba19d9
+      internalID: -880802640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_60
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d40c28e6b617144b039a381d8dd93d
+      internalID: 1536431341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_61
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab46b8602b02fe4588a38f5a2bdc03e
+      internalID: -557053639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_62
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05ea15bc2d9f814b8789587163e52a7
+      internalID: 899108440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_63
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289895eff4689934e9a24f1c8da93c02
+      internalID: 1666364379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec45bae50917a834296aa5cea7d5d475
+      internalID: -1866229642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6d8d1c277e96c47adf69fc48483dd9
+      internalID: 127859978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b81cc3f7de954d4c88d4b9b06f7fca1
+      internalID: -857554634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_67
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68edb110110c30c468f6e67022d6685e
+      internalID: 2130733555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77025591b8a32046984792112833b31
+      internalID: -1188408996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_69
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944479a62200ef6448d6d97aa37a2eaa
+      internalID: -1571456295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6fea1582b39090428e9f0ccb9d173c7
+      internalID: 1926811249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_71
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903d14653afee7141bc898b6e90c6697
+      internalID: 2125761085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_72
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5ff16e884d18449b9990a04f39b02a
+      internalID: 1716837459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_73
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a1ed9861b68754883e7411f3460888
+      internalID: 749569011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8c64c2f0b51524ea93aec119177798
+      internalID: -1500420905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_75
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996ceea6db6b1ec4e8bfbb5970bdc4f5
+      internalID: 1968690969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_76
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6471482cf9d3784684514d9d23bd64c
+      internalID: 535073958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_77
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c0d2419a9048d48b4919c85edbfca2
+      internalID: -924368223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_78
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a21b38e18d922345bef4c0c55b8aaf9
+      internalID: -1166962520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_79
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5467891da6b7114da22fce08bfdaf85
+      internalID: 456243191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1319b68a6a4191b42a92dd4a6d2f196d
+      internalID: -846927921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad86de3af3c7e9247a9ec9b73d0721b3
+      internalID: 1066372165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99d35b6e2e52e84782ed79a721f9881
+      internalID: 612431905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73548c92b83963c4987dffc24c8fefa2
+      internalID: 876655345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_84
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed93021cfab6b9e4abdef75ed4f13bd8
+      internalID: -565048338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3756d90eae0750946810f0ab8943d18d
+      internalID: 1850460939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_86
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c860d800273c6e7418900485c9c26e55
+      internalID: 1967800887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_87
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6c13b73e75bef46af991d341ebbe4a
+      internalID: 1620636332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_88
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f01c442d2bfd84094417ba35aef12c
+      internalID: 543382815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_89
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06fc15fa7172dc245a6e5ee1f97f72d1
+      internalID: -92900023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_90
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b13173879ff74488fbd80e4fe79729
+      internalID: -1223879398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_91
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a67d400560df4540851e239587b86b5
+      internalID: -1199497616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_92
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75adbc46461dec64d93ea01e58519e4d
+      internalID: 895507267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_93
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3ef42121d370a40844387bc3fa10f9
+      internalID: 966900422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_94
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b1a3544f3be6c42a6ec1c0568b9b07
+      internalID: 2017784431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_95
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b6fea9fb3e45a47bd0269f487f3cc6
+      internalID: 1827525948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc8503237cb5934ea3c273700de0baa
+      internalID: -1041345501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f3f60a20f49c6418739fc95168d6bc
+      internalID: -692197377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_98
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8afab7ae25f4ca34dbd7dee2fa3b3a97
+      internalID: -1571866164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_99
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413258c372ab7c14485dc497cb01681c
+      internalID: -1231558181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0d4d8e31c68514ab547c5bb96ad7ee
+      internalID: -355734854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_101
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e292836659af05c40b7267be896cee78
+      internalID: -597226765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9978ae38f72658342aca3c747c5d3da9
+      internalID: 1165308631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_103
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7746dcfa62354ab47b4a0edcfa38c2f7
+      internalID: 1120176969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_104
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee2a55f2f7e5b648b0c28b4fe28e336
+      internalID: -390867776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_105
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f10bc1cee446574e8f048b6c2011236
+      internalID: -996846769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_106
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8745f2e6d7415164c99d9d3088e653dc
+      internalID: -169330927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_107
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18495b27d96f1a347900e7351f77f284
+      internalID: 1023714922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_108
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06aa275c30b893d4190d48fdac27e900
+      internalID: 1325240148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_109
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af14045e27fb0484691cf5427fe6563b
+      internalID: -1038106455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_110
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45fb98e299ae8344694251ada12aea67
+      internalID: -871083015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_111
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435ef9727fbdbf948b0d9233aa2a4fa6
+      internalID: 1264305129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7241d2e75ec758c45a9b99babea4101e
+      internalID: -284877268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_113
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10bec6d25ae88ef41ad434e0e965ab9d
+      internalID: 350391691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_114
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13bc870e0565eb745977aaa19517fc50
+      internalID: 336042357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_115
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5da273e2755ba4a9d9b547be7e4c02
+      internalID: -288355449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567dbc5191707c9469b33a5c2182ea59
+      internalID: -310246044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_117
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33919437c55341c40b49442ecbea26c0
+      internalID: 1334055631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_118
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99f3bb743a2e2a46a6b5619c4596556
+      internalID: 1439977589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_119
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f140109a24b89b4aa61db0442dd7549
+      internalID: 2112221939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_120
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac49d6107da0ea4fb2d57ab74cf91f4
+      internalID: -247927871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_121
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c715941c0e49a44a2f7c0944d14956
+      internalID: 2101645501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_122
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c523379f8da24e44bea88f4ddf40308
+      internalID: -302581173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_123
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0aaa96f5ea27c641ae4b1ef3e26f98b
+      internalID: -182503932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_124
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ddb7549a94fbe4198f66d83a5bbd5f
+      internalID: 1756163382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_125
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3055e84c073720d48828b891b2f19a0d
+      internalID: -940385748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_126
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ba85056f79f164082a5783a354d5f2
+      internalID: 1547116533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_127
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9aff2024ee55b14aa00e9a69c631556
+      internalID: -473905180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30aa494451fa48640bbabdc949a5c37f
+      internalID: 525140198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_129
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dfb5a2bb99ee5947b11d25741cfd75e
+      internalID: 1745127722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_130
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7b4414ab235df4f9a354216eceaae5
+      internalID: -1530576062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_131
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0602081dd1a9f49b58b0412012ccdf
+      internalID: 932562359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_132
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81a5f978fba44b4ba6b9d6d39435105
+      internalID: -368538794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_133
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba9f332dab051944a1a9197aaaf0f94
+      internalID: -172658399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_134
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f647270dc12575b498f4a41942b477de
+      internalID: 1743484630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_135
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe4a7ef2a3fa7744a031af1edfe064f
+      internalID: 1424582996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_136
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45974b6183336494ba5f5f75a01b54e1
+      internalID: 304140849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_137
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb965f977895c1b40a8b71e6efb7eb51
+      internalID: -2028108378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_138
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442866914d04c874e8e139ce2400c99d
+      internalID: -1218225516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_139
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53eeda50f5933643b78c8bf0ba57003
+      internalID: -162895264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_140
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be741080808d2a409eb1ad0c9b6fa5b
+      internalID: -349713418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_141
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934209df830e30241946921719c73103
+      internalID: 777949209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_142
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906c73cb4fce45649b914203fe129793
+      internalID: 85508171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_143
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e565a52ff52627e49abb246d0a41bfa2
+      internalID: -1382669732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2151983abb5c24096780a324bd5b64
+      internalID: -497494080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_145
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b62b90ab4c7404d911572460037c42
+      internalID: -970222425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_146
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3456a9e49672a4c949374cf5f70650
+      internalID: -2093259912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_147
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96f429997632c5418140cecc294d1c2
+      internalID: 625251243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2991574d5194e488c76a1738c766be
+      internalID: -1484637686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_149
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f424af730f494f94890521fcda58cb7e
+      internalID: -1462108498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_150
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edec9e1763920744d9fcad9771a1417f
+      internalID: -1922966818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_151
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f03c33406f46549bcb1105232a711d
+      internalID: -706733145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_152
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55daac7e56f4d3344b3a6341c96175b3
+      internalID: -103657780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_153
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a39215d2329c046b5bd37122aa51d2
+      internalID: 817405882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_154
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc5d8b3b358ff24fa694f0949b17a35
+      internalID: -195422514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_155
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10800e3947940584bb0302d84e31f6b2
+      internalID: -1052717854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_156
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4df2512f420234fb124918e3f45336
+      internalID: 401335325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_157
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729dcb7395f34be4e9d4405c2f29829c
+      internalID: 122531878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_158
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d615674371bb65a44ac17b76b02c4e0e
+      internalID: 621629873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_159
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20bd29f8759c114980a6f6f9ad7f4bc
+      internalID: 1575983565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84a9e13c1c18e14c96d1fa83a7543a1
+      internalID: -1202225558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_161
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abe222919e507849a30d8c50e835237
+      internalID: -132837631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_162
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9655dffc339015647b659d0330a7da43
+      internalID: 2071829702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_163
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d761a029b47fa44d916478f3e65ea0c
+      internalID: -1283424525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_164
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777f866a7ddb04b48a4414dfddb6fe8e
+      internalID: -661873175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_165
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e235444c61a86d8438b53e95bd02cb9e
+      internalID: -2073445700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_166
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f301409652d1c48b717827d15f9481
+      internalID: -1711915717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_167
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287d320357ca6b447bd635a8bcd03752
+      internalID: -514181169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_168
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d26855f171b40b459ef81338d900585
+      internalID: -635313011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_169
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671f78351354eff46ac18718ffebf133
+      internalID: 1794881566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_170
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c934b7a787b41a240b7d3b5580bd0333
+      internalID: -1196522324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_171
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a99eabf10c0af49b43b816da2e0b03
+      internalID: -1018319622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_172
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc383c43eb967584ab7ba459737cb110
+      internalID: -1330677008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_173
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907aaadbea1824649baacd02b63145d3
+      internalID: 1781897733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_174
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75660644f3ce3e4e80953281f6e969d
+      internalID: 991608252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_175
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551da096deaa20745bb5009fcdafc4a6
+      internalID: -1774704583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc2fdaa07c03414b8c32561c141c2c1
+      internalID: -815625632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_177
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c109748b8aca5b34aa5dd95eed85e035
+      internalID: 676940824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_178
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa7830d1e0c2934a984cad78b87d19a
+      internalID: 1312641649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_179
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3094d6245719d9644a961984730c3c9b
+      internalID: 1557703041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_180
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53c1c9c4130c2048a5daf9923397ffd
+      internalID: 1274753832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_181
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9309f2468d4ae0541bd49cbfc0a173ae
+      internalID: 796867204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_182
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebd0cf884f856a45966dc523bcd2a8b
+      internalID: -1849613651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_183
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32c333a3317736488f24ea4a4f344d6
+      internalID: 551480523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_184
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c05f5100089f5439fb2e83e186b6c9
+      internalID: 103053773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_185
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4f154e81b46e342b0c7bf5ba8e57f8
+      internalID: -129193601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_186
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b56d22a83963424683edac7816d6b0c
+      internalID: -1782296582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_187
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4f8d16da4ea8e43ad8cbf408c33449
+      internalID: -397545849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_188
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06c6841a08764045a001c30b95f5623
+      internalID: -1022397237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_189
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db16a1ee0ca8c146a7cf10c43698796
+      internalID: -1339084162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_190
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb7da08ec1920b4db46637b266f8899
+      internalID: -140843675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_191
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fed997f51eb76649ba05d5226d90d9e
+      internalID: 1156334294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8554849f935050f43b60cf9442f142c8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_0: 3346763664985557358
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_1: -9028870919783072443
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_10: -803026014066311510
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_100: -355734854
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_101: -597226765
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_102: 1165308631
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_103: 1120176969
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_104: -390867776
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_105: -996846769
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_106: -169330927
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_107: 1023714922
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_108: 1325240148
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_109: -1038106455
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_11: -8063910088825255616
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_110: -871083015
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_111: 1264305129
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_112: -284877268
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_113: 350391691
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_114: 336042357
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_115: -288355449
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_116: -310246044
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_117: 1334055631
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_118: 1439977589
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_119: 2112221939
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_12: -2127271660257026716
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_120: -247927871
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_121: 2101645501
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_122: -302581173
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_123: -182503932
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_124: 1756163382
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_125: -940385748
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_126: 1547116533
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_127: -473905180
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_128: 525140198
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_129: 1745127722
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_13: -8312906787282620972
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_130: -1530576062
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_131: 932562359
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_132: -368538794
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_133: -172658399
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_134: 1743484630
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_135: 1424582996
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_136: 304140849
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_137: -2028108378
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_138: -1218225516
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_139: -162895264
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_14: 375015284897891837
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_140: -349713418
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_141: 777949209
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_142: 85508171
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_143: -1382669732
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_144: -497494080
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_145: -970222425
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_146: -2093259912
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_147: 625251243
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_148: -1484637686
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_149: -1462108498
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_15: 2534834160039517056
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_150: -1922966818
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_151: -706733145
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_152: -103657780
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_153: 817405882
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_154: -195422514
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_155: -1052717854
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_156: 401335325
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_157: 122531878
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_158: 621629873
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_159: 1575983565
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_16: -5452142006455276015
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_160: -1202225558
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_161: -132837631
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_162: 2071829702
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_163: -1283424525
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_164: -661873175
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_165: -2073445700
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_166: -1711915717
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_167: -514181169
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_168: -635313011
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_169: 1794881566
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_17: -4626255667027279331
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_170: -1196522324
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_171: -1018319622
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_172: -1330677008
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_173: 1781897733
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_174: 991608252
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_175: -1774704583
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_176: -815625632
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_177: 676940824
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_178: 1312641649
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_179: 1557703041
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_18: -3225895408367823939
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_180: 1274753832
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_181: 796867204
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_182: -1849613651
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_183: 551480523
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_184: 103053773
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_185: -129193601
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_186: -1782296582
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_187: -397545849
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_188: -1022397237
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_189: -1339084162
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_19: 7811931640208759044
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_190: -140843675
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_191: 1156334294
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_2: 7047526187629391687
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_20: -4156879317717907189
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_21: 4862347705062717524
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_22: -1075076520547561040
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_23: -3639780537371344218
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_24: -2437123987046947556
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_25: 1329057333
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_26: -1270325249
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_27: -536756145
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_28: -827179567
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_29: -2110262018
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_3: 9164666348069558794
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_30: -355482139
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_31: -1084767834
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_32: 388027096
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_33: -2003353333
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_34: 720258950
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_35: 1827061963
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_36: -1233978124
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_37: 470531580
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_38: -1672181160
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_39: 1619849838
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_4: -6732589511096353510
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_40: 1346131946
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_41: -1903760853
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_42: -351077035
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_43: 1663476268
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_44: 755194846
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_45: 2029832918
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_46: -610960708
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_47: -1166197722
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_48: 1895693720
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_49: 146981625
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_5: 2471038837178189319
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_50: 824785886
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_51: -755653643
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_52: 1034311212
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_53: 1655013319
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_54: -1420277339
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_55: -739356298
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_56: 1025776967
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_57: 2133798593
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_58: 1493876000
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_59: -880802640
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_6: -7302142071184987554
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_60: 1536431341
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_61: -557053639
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_62: 899108440
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_63: 1666364379
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_64: -1866229642
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_65: 127859978
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_66: -857554634
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_67: 2130733555
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_68: -1188408996
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_69: -1571456295
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_7: 6635649494498071315
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_70: 1926811249
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_71: 2125761085
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_72: 1716837459
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_73: 749569011
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_74: -1500420905
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_75: 1968690969
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_76: 535073958
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_77: -924368223
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_78: -1166962520
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_79: 456243191
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_8: 9115012971686096117
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_80: -846927921
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_81: 1066372165
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_82: 612431905
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_83: 876655345
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_84: -565048338
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_85: 1850460939
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_86: 1967800887
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_87: 1620636332
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_88: 543382815
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_89: -92900023
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_9: -9114821529657492824
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_90: -1223879398
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_91: -1199497616
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_92: 895507267
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_93: 966900422
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_94: 2017784431
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_95: 1827525948
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_96: -1041345501
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_97: -692197377
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_98: -1571866164
+      vectoraith_tileset_terrains_temperate_autotile_rpgmaker_32x32_99: -1231558181
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
